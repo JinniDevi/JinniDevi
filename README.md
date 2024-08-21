@@ -2,7 +2,7 @@
 
 # **Hi there** 👋
 ### This is my ✨special✨ Repository! 😘
-- 🔭 I’m currently working on ... **Public Wep Full-stack Developer**
+- 🔭 I’m currently working on ... **Wep Full-stack Developer**
 - 🌱 I’m currently learning ... **Web Full-stack**
 - 👯 I’m looking to collaborate on ... **Web Project** 
 - 🤔 I’m looking for help with ... **offline Coding study group On Seoul, South Korea**
