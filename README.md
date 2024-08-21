@@ -2,10 +2,10 @@
 
 # **Hi there** 👋
 ### This is my ✨special✨ Repository! 😘
-- 🔭 I’m currently working on ... **Public Mobile App Full-stack Developer**
-- 🌱 I’m currently learning ... **Android / iOS App**
-- 👯 I’m looking to collaborate on ... **Mobile / Web Project** 
-- 🤔 I’m looking for help with ... **offline Coding study group On Daejeon, South Korea**
+- 🔭 I’m currently working on ... **Public Wep Full-stack Developer**
+- 🌱 I’m currently learning ... **Web Full-stack**
+- 👯 I’m looking to collaborate on ... **Web Project** 
+- 🤔 I’m looking for help with ... **offline Coding study group On Seoul, South Korea**
 - 📫 How to reach me ... 
     <a href="mailto:leejiyooniiiii@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
