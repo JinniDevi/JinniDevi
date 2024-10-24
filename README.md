@@ -2,14 +2,14 @@
 
 # **Hi there** 👋
 ### This is my ✨special✨ Repository! 😘
-- 🔭 I’m currently working on ... **Wep Full-stack Developer**
-- 🌱 I’m currently learning ... **Web Full-stack**
-- 👯 I’m looking to collaborate on ... **Web Project** 
+- 🔭 I’m currently working on ... **Full-stack Developer**
+- 🌱 I’m currently learning ... **k8s**
+- 👯 I’m looking to collaborate on ... **🙄** 
 - 🤔 I’m looking for help with ... **Coding study group On Seoul, South Korea**
 - 📫 How to reach me ... 
-    <a href="mailto:leejiyooniiiii@gmail.com">
-		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
-	</a>
+<a href="mailto:leejiyooniiiii@gmail.com">
+   <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+</a>
 
 ### 📚 Tech Stack 📚
 
