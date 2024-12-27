@@ -3,7 +3,7 @@
 # **Hi there** 👋
 ### This is my ✨special✨ Repository! 😘
 - 🔭 I’m currently working on ... **Full-stack DevOps, AI Engineer**
-- 🌱 I’m currently learning ... **CKA, RAG PoC**
+- 🌱 I’m currently learning ... **How to build a CI/CD pipeline**
 - 👯 I’m looking to collaborate on ... **🙄** 
 - 🤔 I’m looking for help with ... **Coding study group On Seoul, South Korea**
 - 📫 How to reach me ... <a href="mailto:leejiyooniiiii@gmail.com"><img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" /></a>
