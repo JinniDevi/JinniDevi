@@ -62,6 +62,6 @@
 
 <br/>
 
-![JinniDevi's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinniDevi&show_icons=true&theme=flag-india)
+![JinniDevi's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinniDevi&show_icons=true&theme=vue)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejiyooniiiii)](https://solved.ac/leejiyooniiiii/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinniDevi&layout=compact&theme=vue)
