@@ -65,3 +65,5 @@
 ![JinniDevi's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinniDevi&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinniDevi&layout=compact&theme=vue)
+
+![JinniDevi's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=JinniDevi&theme=vue)
