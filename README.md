@@ -2,6 +2,7 @@
 
 # **Hi there** 👋
 <a href="https://www.credly.com/earner/earned/badge/8f5211bf-b2ae-42a4-a916-8b39f34dd448"><img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="100" height="100"/></a> *CKA: Certified Kubernetes Administrator*
+##### You can click image above to check authenticity.
 
 ### This is my ✨special✨ Repository! 😘
 - 🔭 I’m currently working on ... **DevOps & AI Engineer**
