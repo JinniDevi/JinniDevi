@@ -1,12 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JinniDevi&fontSize=90"/>
 
 # **Hi there** 👋
+<a href="https://www.credly.com/earner/earned/badge/8f5211bf-b2ae-42a4-a916-8b39f34dd448"><img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="100" height="100"/></a> *CKA: Certified Kubernetes Administrator*
+
 ### This is my ✨special✨ Repository! 😘
 - 🔭 I’m currently working on ... **DevOps & AI Engineer**
 - 🌱 I’m currently learning ... **How to packaging a CI/CD pipeline and making CHATBOT service using RAG**
 - 👯 I’m looking to collaborate on ... **🙄** 
 - 🤔 I’m looking for help with ... **🙄**
-- 📫 How to reach me ... <a href="mailto:leejiyooniiiii@gmail.com"><img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" /></a>
+- 📫 How to reach me ... <a href="mailto:leejiyooniiiii@gmail.com"><img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white"/></a>
+
 
 ### 📚 Tech Stack 📚
 
@@ -36,7 +39,7 @@
 <img src="https://img.shields.io/badge/grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
 -->
 
-##### ▶️ language
+#### ▶️ language
 <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
 
 #### ▶️ framework
