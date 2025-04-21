@@ -6,7 +6,7 @@
 
 ### This is my ✨special✨ Repository! 😘
 - 🔭 I’m currently working on ... **DevOps & AI Engineer**
-- 🌱 I’m currently learning ... **How to create AI CHATBOT based on RAG**
+- 🌱 I’m currently learning ... **How to provide an AI Service Using such as MCP, A2A, N8N**
 - 👯 I’m looking to collaborate on ... **🙄** 
 - 🤔 I’m looking for help with ... **🙄**
 - 📫 How to reach me ... <a href="mailto:leejiyooniiiii@gmail.com"><img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white"/></a>
