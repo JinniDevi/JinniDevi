@@ -13,9 +13,11 @@
 
 ## 👤 About Me
 
+- 😊 My name is **Lee Ji Yoon**
 - 🔭 **DevOps & AI Engineer**
 - 🌱 **Agentic AI Orchestration / LLM-based Systems**
-- 💬 Interested in **AI Orchestration Architecture & Cloud Native Platforms**
+- 💬 Interested in **AI Orchestration & Cloud Native Platforms**
+- 🤗 I am fluent in **Korean**(native) and **English**, with conversational proficiency in **Japanese**.
 - 📫 Contact <a href="mailto:leejiyooniiiii@gmail.com"><img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white"/></a>
 
 ---
@@ -94,3 +96,46 @@
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=black"/> <img src="https://img.shields.io/badge/Nginx_Proxy_Manager-00C7B7?style=flat-square&logo=nginxproxymanager&logoColor=black"/><br/>
 
 ---
+
+## 📝  Career Summary
+
+### KAONi (2024.06-present) / Software Engineer
+- Built and operated on-premise Kubernetes-based microservices (MSA) platforms
+- Developed RAG-based AI chatbot services for enterprise knowledge retrieval
+- Implemented GitOps workflows with Helm packaging for online and air-gapped environments
+- Developed internal DevOps management and observability platforms (backend and frontend)
+- Designed and developed Agentic AI services orchestrating client requests across multiple MCP-based AI service agents
+- Analyzed the Cloud On-Nara (central government) and On-Nara Business Process System (local government), and assessed an RPA-based reporting system to identify automation opportunities
+
+### KCNET (2023.06-2024.06) / Software Engineer
+- Maintained and enhanced government (Korea Customs Service) mobile applications for public and enterprise iOS/Android apps
+- Implemented client-side mobile UI using Objective-C (iOS) and Java (Android)
+- Built and maintained hybrid mobile UI components using HTML, CSS, and JavaScript (Cordova-based)
+- Integrated mobile clients with existing SOAP-based backend web services
+- Implemented biometric authentication (fingerprint and face recognition) login features
+- Improved application stability and usability through bug fixes, UI enhancements, and OS compatibility updates
+- Executed MDM deployment tasks including server configuration, client integration, application testing, and preparation of administrator installation guides
+- Supported an AI-driven customs inspection pilot by analyzing and labeling X-ray images using Python and LabelMe
+
+### CJ Healthcare (now HK inno.N) (2018.09-2020.02) / Quality Control Analyst
+- Performed physicochemical and instrumental analysis of IV/TPN solution raw materials and finished products
+- Conducted raw material sampling, handling, and testing in compliance with GMP procedures
+- Operated and analyzed data using multiple analytical instruments including HPLC, FT-IR, UV-Vis, Karl Fischer, and AAS
+- Registered test samples in LIMS and documented test results and laboratory records
+- Reviewed test results and applied quality release labels upon approval
+- Managed retention samples including storage, LIMS registration, and disposal
+- Maintained controlled storage conditions through daily temperature and humidity monitoring
+- Updated SOPs, specifications, and test records in alignment with pharmacopoeias (KP, EP, BP, USP, JP)
+- Managed analytical columns, reagents, and laboratory consumables procurement
+
+### CKD Pharmaceuticals (2017.01-2017.06) / Quality Control Analyst
+- Assisted in physicochemical analysis of tablet raw materials and finished products
+- Conducted loss on drying, residue on ignition, ash tests, and Karl Fischer analysis
+- Supported dissolution testing, assay, and content uniformity testing
+- Assisted with instrument operation and data recording under GMP guidelines
+
+### SungKwang Pharmaceuticals (now Person) (2015.07-2015.08) / Quality Control Analyst
+- Assisted in preparation of HPLC mobile phases and basic laboratory operations
+- Supported analytical documentation management and pharmacopoeia translation
+- Participated in hands-on training for analytical instruments and microbiological tests
+- Assisted with sample storage management, reagent organization, and laboratory housekeeping
