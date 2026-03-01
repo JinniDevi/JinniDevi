@@ -23,8 +23,6 @@
 <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/> <img src="https://img.shields.io/badge/gitea-609926?style=flat-square&logo=gitea&logoColor=white"/> <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/harbor-60B932?style=flat-square&logo=harbor&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/sonatype-1B1C30?style=flat-square&logo=sonatype&logoColor=white"/> <img src="https://img.shields.io/badge/sonarqube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white"/> <img src="https://img.shields.io/badge/argocd-EF7B4D?style=flat-square&logo=argo&logoColor=white"/> <img src="https://img.shields.io/badge/keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/> <img src="https://img.shields.io/badge/kibana-005571?style=flat-square&logo=kibana&logoColor=white"/> <img src="https://img.shields.io/badge/fluentd-0E83C8?style=flat-square&logo=fluentd&logoColor=white"/> <img src="https://img.shields.io/badge/logstash-005571?style=flat-square&logo=logstash&logoColor=white"/>
-
-<!--
 <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
 <img src="https://img.shields.io/badge/argoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
@@ -38,7 +36,8 @@
 
 <img src="https://img.shields.io/badge/prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
--->
+<img src="https://img.shields.io/badge/virtualbox-183A61?style=flat-square&logo=virtualbox&logoColor=white"/> 
+<img src="https://img.shields.io/badge/proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white"/>
 
 #### ▶️ language
 <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
@@ -47,10 +46,6 @@
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/apachecordova-E8E8E8?style=flat-square&logo=apachecordova&logoColor=black"/><br/>
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=black"/>
-
-
-#### ▶️ api
-<img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/> <img src="https://img.shields.io/badge/kakao-FFCD00?style=flat-square&logo=kakao&logoColor=black"/>
 
 #### ▶️ server
 <img src="https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/> <br/>
@@ -62,4 +57,3 @@
 <img src="https://img.shields.io/badge/apachemaven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/> <img src="https://img.shields.io/badge/gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/> <img src="https://img.shields.io/badge/photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/> <img src="https://img.shields.io/badge/ios-000000?style=flat-square&logo=ios&logoColor=white"/> <img src="https://img.shields.io/badge/xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white"/> <img src="https://img.shields.io/badge/dbeaver-382923?style=flat-square&logo=dbeaver&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/virtualbox-183A61?style=flat-square&logo=virtualbox&logoColor=white"/> <img src="https://img.shields.io/badge/proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white"/>
