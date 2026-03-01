@@ -17,7 +17,7 @@
 - 🔭 **DevOps & AI Engineer**
 - 🌱 **Agentic AI Orchestration / LLM-based Systems**
 - 💬 Interested in **AI Orchestration & Cloud Native Platforms**
-- 🤗 I am fluent in **Korean**(native) and **English**, with conversational proficiency in **Japanese**.
+- 🤗 I am fluent in **Korean** (native) and **English**, with conversational proficiency in **Japanese**.
 - 📫 Contact <a href="mailto:leejiyooniiiii@gmail.com"><img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white"/></a>
 
 ---
@@ -32,7 +32,7 @@
 
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openaigym&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/> <img src="https://img.shields.io/badge/Huggingface-FFD21E?style=flat-square&logo=huggingface&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/RAG-0A66C2?style=flat-square"/> <img src="https://img.shields.io/badge/Keyword_Search-005571?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Vector_Search-005571?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Hybrid_Search-005571?style=flat-square&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-6A5ACD?style=flat-square"/> <img src="https://img.shields.io/badge/Multi_Modal-005571?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/OCR-6A5ACD?style=flat-square"/> <img src="https://img.shields.io/badge/TTS-6A5ACD?style=flat-square"/> <img src="https://img.shields.io/badge/TTS-6A5ACD?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-6A5ACD?style=flat-square"/> <img src="https://img.shields.io/badge/Multi_Modal-005571?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/OCR-6A5ACD?style=flat-square"/> <img src="https://img.shields.io/badge/TTS-6A5ACD?style=flat-square"/> <img src="https://img.shields.io/badge/STT-6A5ACD?style=flat-square"/><br/>
 <img src="https://img.shields.io/badge/Chatbot-0066FF?style=flat-square&logo=chatbot&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white"/> <img src="https://img.shields.io/badge/SSE_Streaming-FF6F00?style=flat-square"/><br/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/MLFlow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
@@ -99,16 +99,16 @@
 
 ## 📝  Career Summary
 
-### KAONi (2024.06-present) / Software Engineer
+### KAONi (2024.06-present) / Software Engineer (Permanent)
 - Built and operated on-premise Kubernetes-based microservices (MSA) platforms
 - Developed RAG-based AI chatbot services for enterprise knowledge retrieval
 - Implemented GitOps workflows with Helm packaging for online and air-gapped environments
 - Developed internal DevOps management and observability platforms (backend and frontend)
-- Designed and developed Agentic AI services orchestrating client requests across multiple MCP-based AI service agents
-- Analyzed the Cloud On-Nara (central government) and On-Nara Business Process System (local government), and assessed an RPA-based reporting system to identify automation opportunities
+- Designed and developed Agentic AI services orchestrating client requests through multiple MCP-based AI service agents
+- Analyzed the Cloud On-Nara (central government) and the On-Nara Business Process System (local government), and assessed an RPA-based reporting system to identify automation opportunities
 
-### KCNET (2023.06-2024.06) / Software Engineer
-- Maintained and enhanced government (Korea Customs Service) mobile applications for public and enterprise iOS/Android apps
+### KCNET (2023.06-2024.06) / Software Engineer (Permanent)
+- Maintained and enhanced government (Korea Customs Service) mobile applications for public and enterprise users on iOS and Android
 - Implemented client-side mobile UI using Objective-C (iOS) and Java (Android)
 - Built and maintained hybrid mobile UI components using HTML, CSS, and JavaScript (Cordova-based)
 - Integrated mobile clients with existing SOAP-based backend web services
@@ -117,7 +117,15 @@
 - Executed MDM deployment tasks including server configuration, client integration, application testing, and preparation of administrator installation guides
 - Supported an AI-driven customs inspection pilot by analyzing and labeling X-ray images using Python and LabelMe
 
-### CJ Healthcare (now HK inno.N) (2018.09-2020.02) / Quality Control Analyst
+### DDIT (2022.11-2023.06) / Software Engineer (Trainee)
+- Designed and implemented core features including e-approval, bulletin board, and community modules
+- Applied eGovFrame templates and Spring MVC architecture, designed Oracle-based schemas, and integrated MyBatis
+- Led project execution as Project lead (PL): requirements analysis, schedule planning, weekly meetings, presentation planning, and delivery
+- Authored and managed versioning for 15+ project deliverables, including system architecture, ERD, API specifications, and screen definition documents
+- Established a Git-based collaboration workflow and introduced code review and retrospective practices to improve engineering quality and team efficiency
+- As class leader, organized and shared company analysis and hiring information to strengthen team communication
+
+### CJ Healthcare (now HK inno.N) (2018.09-2020.02) / Quality Control Analyst (Permanent)
 - Performed physicochemical and instrumental analysis of IV/TPN solution raw materials and finished products
 - Conducted raw material sampling, handling, and testing in compliance with GMP procedures
 - Operated and analyzed data using multiple analytical instruments including HPLC, FT-IR, UV-Vis, Karl Fischer, and AAS
@@ -128,13 +136,13 @@
 - Updated SOPs, specifications, and test records in alignment with pharmacopoeias (KP, EP, BP, USP, JP)
 - Managed analytical columns, reagents, and laboratory consumables procurement
 
-### CKD Pharmaceuticals (2017.01-2017.06) / Quality Control Analyst
+### CKD Pharmaceuticals (2017.01-2017.06) / Quality Control Analyst (Intern)
 - Assisted in physicochemical analysis of tablet raw materials and finished products
 - Conducted loss on drying, residue on ignition, ash tests, and Karl Fischer analysis
 - Supported dissolution testing, assay, and content uniformity testing
 - Assisted with instrument operation and data recording under GMP guidelines
 
-### SungKwang Pharmaceuticals (now Person) (2015.07-2015.08) / Quality Control Analyst
+### SungKwang Pharmaceuticals (now Person) (2015.07-2015.08) / Quality Control Analyst (Trainee)
 - Assisted in preparation of HPLC mobile phases and basic laboratory operations
 - Supported analytical documentation management and pharmacopoeia translation
 - Participated in hands-on training for analytical instruments and microbiological tests
