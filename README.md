@@ -23,21 +23,10 @@
 <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/> <img src="https://img.shields.io/badge/gitea-609926?style=flat-square&logo=gitea&logoColor=white"/> <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/harbor-60B932?style=flat-square&logo=harbor&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/sonatype-1B1C30?style=flat-square&logo=sonatype&logoColor=white"/> <img src="https://img.shields.io/badge/sonarqube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white"/> <img src="https://img.shields.io/badge/argocd-EF7B4D?style=flat-square&logo=argo&logoColor=white"/> <img src="https://img.shields.io/badge/keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/> <img src="https://img.shields.io/badge/kibana-005571?style=flat-square&logo=kibana&logoColor=white"/> <img src="https://img.shields.io/badge/fluentd-0E83C8?style=flat-square&logo=fluentd&logoColor=white"/> <img src="https://img.shields.io/badge/logstash-005571?style=flat-square&logo=logstash&logoColor=white"/>
-<img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/argoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
+<img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/> <img src="https://img.shields.io/badge/argoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
 <img src="https://img.shields.io/badge/sonarqube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white"/>
-<img src="https://img.shields.io/badge/nexusmods-E6832B?style=flat-square&logo=nexusmodse&logoColor=white"/>
-<img src="https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=githubactions&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
-<img src="https://img.shields.io/badge/fitbit-00B0B9?style=flat-square&logo=fitbit&logoColor=white"/>
-<img src="https://img.shields.io/badge/kibana-005571?style=flat-square&logo=kibana&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/virtualbox-183A61?style=flat-square&logo=virtualbox&logoColor=white"/> 
-<img src="https://img.shields.io/badge/proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white"/>
+<img src="https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=githubactions&logoColor=black"/> 
+<img src="https://img.shields.io/badge/kibana-005571?style=flat-square&logo=kibana&logoColor=white"/> <img src="https://img.shields.io/badge/prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/> <img src="https://img.shields.io/badge/grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/> <img src="https://img.shields.io/badge/virtualbox-183A61?style=flat-square&logo=virtualbox&logoColor=white"/> <img src="https://img.shields.io/badge/proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white"/>
 
 #### ▶️ language
 <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
