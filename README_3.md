@@ -16,35 +16,25 @@
 - 🔭 **DevOps & AI Engineer**
 - 🌱 **Agentic AI Orchestration / LLM-based Systems**
 - 🧠 Interested in **AI Service Architecture & Cloud Native Platforms**
-- 📫 Contact  
-  <a href="mailto:leejiyooniiiii@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white"/>
-  </a>
+- 📫 Contact <a href="mailto:leejiyooniiiii@gmail.com"><img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white"/></a>
 
 ---
 
 ## 🧠 AI / LLM Engineering
 
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-0A66C2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Vector_Search-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
-<img src="https://img.shields.io/badge/SSE_Streaming-FF6F00?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/><img src="https://img.shields.io/badge/RAG-0A66C2?style=flat-square"/><img src="https://img.shields.io/badge/SSE_Streaming-FF6F00?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/Elasticsearch_Vector_Search-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prompt_Engineering-6A5ACD?style=flat-square"/><br/>
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 
 ---
 
 ## ⚙️ Backend & API
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
 <img src="https://img.shields.io/badge/OAuth2-4A90E2?style=flat-square"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square"/>
