@@ -63,12 +63,3 @@
 <img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/> <img src="https://img.shields.io/badge/ios-000000?style=flat-square&logo=ios&logoColor=white"/> <img src="https://img.shields.io/badge/xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white"/> <img src="https://img.shields.io/badge/dbeaver-382923?style=flat-square&logo=dbeaver&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/virtualbox-183A61?style=flat-square&logo=virtualbox&logoColor=white"/> <img src="https://img.shields.io/badge/proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white"/>
-
-
-<br/>
-
-![JinniDevi's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinniDevi&show_icons=true&theme=vue)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinniDevi&layout=compact&theme=vue)
-
-![JinniDevi's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=JinniDevi&theme=vue)
