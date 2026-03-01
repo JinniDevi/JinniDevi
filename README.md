@@ -6,7 +6,7 @@
 
 ### This is my ✨special✨ Repository! 😘
 - 🔭 I’m currently working on ... **DevOps & AI Engineer**
-- 🌱 I’m currently learning ... **How to provide an AI Service Using such as MCP, A2A, N8N**
+- 🌱 I’m currently learning ... **Agentic AI Orchestration**
 - 👯 I’m looking to collaborate on ... **🙄** 
 - 🤔 I’m looking for help with ... **🙄**
 - 📫 How to reach me ... <a href="mailto:leejiyooniiiii@gmail.com"><img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white"/></a>
@@ -25,21 +25,22 @@
 <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/> <img src="https://img.shields.io/badge/kibana-005571?style=flat-square&logo=kibana&logoColor=white"/> <img src="https://img.shields.io/badge/fluentd-0E83C8?style=flat-square&logo=fluentd&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/> <img src="https://img.shields.io/badge/grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/> <img src="https://img.shields.io/badge/virtualbox-183A61?style=flat-square&logo=virtualbox&logoColor=white"/> <img src="https://img.shields.io/badge/proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white"/>
 
-#### ▶️ language
+#### ▶️ Languages
 <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
 
-#### ▶️ framework
+#### ▶️ Frameworks/Libraries
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/apachecordova-E8E8E8?style=flat-square&logo=apachecordova&logoColor=black"/><br/>
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=black"/>
 
-#### ▶️ server
+#### ▶️ Servers
 <img src="https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/> <br/>
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/netlify-00C7B7?style=flat-square&logo=netlify&logoColor=black"/> <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white"/><br/> 
-<img src="https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/rockylinux-10B981?style=flat-square&logo=rockylinux&logoColor=white"/> <img src="https://img.shields.io/badge/centos-262577?style=flat-square&logo=centos&logoColor=white"/>
+<img src="https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/rockylinux-10B981?style=flat-square&logo=rockylinux&logoColor=white"/> <img src="https://img.shields.io/badge/centos-262577?style=flat-square&logo=centos&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/ios-000000?style=flat-square&logo=ios&logoColor=white"/>
 
-#### ▶️ tools
+#### ▶️ Tools
 <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/> <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/vscodeide-2496ED?style=flat-square&logo=vscode&logoColor=white"/> <img src="https://img.shields.io/badge/pycharm-000000?style=flat-square&logo=pycharm&logoColor=white"/></br>
 <img src="https://img.shields.io/badge/apachemaven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/> <img src="https://img.shields.io/badge/gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/> <img src="https://img.shields.io/badge/photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/> <img src="https://img.shields.io/badge/ios-000000?style=flat-square&logo=ios&logoColor=white"/> <img src="https://img.shields.io/badge/xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/><br/>
+ <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>  <img src="https://img.shields.io/badge/xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white"/> <img src="https://img.shields.io/badge/dbeaver-382923?style=flat-square&logo=dbeaver&logoColor=white"/><br/>
