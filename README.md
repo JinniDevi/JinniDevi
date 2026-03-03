@@ -13,7 +13,7 @@
 
 ## 👤 About Me
 
-- 😊 My name is **Lee Ji Yoon**
+- 😊 It's **Lee Ji Yoon**
 - 🔭 **DevOps & AI Engineer**
 - 🌱 **Agentic AI Orchestration / LLM-based Systems**
 - 💬 Interested in **AI Orchestration & Cloud Native Platforms**
