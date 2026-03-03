@@ -105,7 +105,7 @@
 - Implemented GitOps workflows with Helm packaging for online and air-gapped environments
 - Developed internal DevOps management and observability platforms (backend and frontend)
 - Designed and developed Agentic AI services orchestrating client requests through multiple MCP-based AI service agents
-- Analyzed the Cloud On-Nara (central government) and the On-Nara Business Process System (local government), and assessed an RPA-based reporting system to identify automation opportunities
+- Joined the On-Nara (Central & Local Government) Business Process System project as a newly selected consortium partner, responsible for system operation and development
 
 ### KCNET (2023.06-2024.06) / Software Engineer (Permanent)
 - Maintained and enhanced government (Korea Customs Service) mobile applications for public and enterprise users on iOS and Android
